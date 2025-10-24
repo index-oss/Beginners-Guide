@@ -39,3 +39,54 @@ You can also:
 ```bash
 git clone https://github.com/yourusername/rulesofcoding.git
 cd rulesofcoding
+
+# 🧠 Rules of Coding — by Codexx
+
+---
+
+## 🧠 Core Principles
+
+- If your code works, don’t touch it.  
+- Always back up your work.  
+- Write code for humans, not just machines.  
+- Test before you push.  
+- Always write documentation so you can work or update later.  
+- First make your ideas exist — you can improve later.
+
+---
+
+### ✨ Tech Stack
+
+- **Next.js + MDX** for interactive digital reading  
+- **Tailwind CSS** for styling  
+- **Vercel** for free deployment  
+- **GitHub** for version control & open collaboration  
+
+---
+
+## 🚀 Contribute
+
+This is an open-source educational project.  
+Feel free to:
+
+- Fix typos or improve writing  
+- Add new rules or quotes  
+- Translate content  
+- Improve formatting or design  
+
+Pull requests are welcome 💡  
+
+---
+
+## 🧑‍💻 Author
+
+**Codexx**  
+> Building better coders through knowledge and discipline.  
+
+Follow for updates: [GitHub Profile](https://github.com/yourusername)
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License** — free to use, modify, and share with attribution.
